@@ -1,2 +1,2 @@
 # apis-banking-ecosystem
-API's Ecossistema Bancário
+![System Design](system_design.png)
